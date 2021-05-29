@@ -1,0 +1,11 @@
+D:\sem 4\ADT\coding file\sample_login\sample_login\bin\Debug\sample_login.exe.config
+D:\sem 4\ADT\coding file\sample_login\sample_login\bin\Debug\sample_login.exe
+D:\sem 4\ADT\coding file\sample_login\sample_login\bin\Debug\sample_login.pdb
+D:\sem 4\ADT\coding file\sample_login\sample_login\obj\Debug\sample_login.csprojResolveAssemblyReference.cache
+D:\sem 4\ADT\coding file\sample_login\sample_login\obj\Debug\sample_login.Form1.resources
+D:\sem 4\ADT\coding file\sample_login\sample_login\obj\Debug\sample_login.Properties.Resources.resources
+D:\sem 4\ADT\coding file\sample_login\sample_login\obj\Debug\sample_login.csproj.GenerateResource.Cache
+D:\sem 4\ADT\coding file\sample_login\sample_login\obj\Debug\sample_login.exe
+D:\sem 4\ADT\coding file\sample_login\sample_login\obj\Debug\sample_login.pdb
+D:\sem 4\ADT\coding file\sample_login\sample_login\obj\Debug\sample_login.Home.resources
+D:\sem 4\ADT\coding file\sample_login\sample_login\obj\Debug\sample_login.Reset.resources
